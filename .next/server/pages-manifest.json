@@ -1,0 +1,19 @@
+{
+  "/_app": "pages/_app.js",
+  "/_document": "pages/_document.js",
+  "/404": "pages/404.html",
+  "/about": "pages/about.html",
+  "/api/hello": "pages/api/hello.js",
+  "/event": "pages/event.html",
+  "/coming-soon": "pages/coming-soon.html",
+  "/portfolio": "pages/portfolio.html",
+  "/project": "pages/project.html",
+  "/publication": "pages/publication.html",
+  "/service-1": "pages/service-1.html",
+  "/faq": "pages/faq.html",
+  "/team": "pages/team.html",
+  "/_error": "pages/_error.js",
+  "/contact": "pages/contact.html",
+  "/": "pages/index.js",
+  "/careers": "pages/careers.js"
+}

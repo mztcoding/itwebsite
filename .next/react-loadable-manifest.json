@@ -1,0 +1,50 @@
+{
+  "careers.jsx -> ../components/sliders/LatestPosts": {
+    "id": 9037,
+    "files": [
+      "static/chunks/949.c43cc6f0544b9eb1.js",
+      "static/css/e7f2c32b53a96c4e.css",
+      "static/chunks/118.4e402388858c9f35.js"
+    ]
+  },
+  "careers.jsx -> @/src/components/sliders/CareersBannerSlider": {
+    "id": 9916,
+    "files": [
+      "static/chunks/949.c43cc6f0544b9eb1.js",
+      "static/css/e7f2c32b53a96c4e.css",
+      "static/chunks/232.c56c07361e64723e.js"
+    ]
+  },
+  "index.jsx -> ../components/sliders/HeroSlideshow": {
+    "id": 2692,
+    "files": [
+      "static/chunks/949.c43cc6f0544b9eb1.js",
+      "static/css/e7f2c32b53a96c4e.css",
+      "static/chunks/682.f012a5d15aec6db5.js"
+    ]
+  },
+  "index.jsx -> ../components/sliders/LatestPosts": {
+    "id": 9037,
+    "files": [
+      "static/chunks/949.c43cc6f0544b9eb1.js",
+      "static/css/e7f2c32b53a96c4e.css",
+      "static/chunks/118.4e402388858c9f35.js"
+    ]
+  },
+  "index.jsx -> ../components/sliders/LatestProjects": {
+    "id": 9992,
+    "files": [
+      "static/chunks/949.c43cc6f0544b9eb1.js",
+      "static/css/e7f2c32b53a96c4e.css",
+      "static/chunks/695.3dc6e7292736803b.js"
+    ]
+  },
+  "index.jsx -> ../components/sliders/Testimonial": {
+    "id": 1563,
+    "files": [
+      "static/chunks/949.c43cc6f0544b9eb1.js",
+      "static/css/e7f2c32b53a96c4e.css",
+      "static/chunks/610.b8c349b8cd7c667b.js"
+    ]
+  }
+}
